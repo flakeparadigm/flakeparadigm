@@ -1,7 +1,7 @@
 # Flakeparadigm
 
 ## Hi there 👋
-I'm Tyler Nienhouse (he/him), a Software Engineer in Sydney 🇦🇺.
+I'm Tyler Nienhouse (he/him), a Software Engineer in Melbourne 🇦🇺.
 JavaScript is my primary language, but I love to dabble in other languages too!
 
 ## Socials
